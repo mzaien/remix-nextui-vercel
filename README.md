@@ -1,6 +1,7 @@
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
+- [Nextui Docs](https://nextui.org/)
 
 ## Deployment
 
