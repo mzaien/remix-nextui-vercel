@@ -1,4 +1,4 @@
-import { Text, Container } from "@nextui-org/react";
+import { Text, Container, css } from "@nextui-org/react";
 export default function Index() {
   return (
     <Container
